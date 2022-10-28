@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: lightcyan;
+}
+li {
+    list-style-type: none; 
+}
+.post{
+    padding: 10px;
+}
+.title{
+    font-weight: bold;
+}
